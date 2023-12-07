@@ -1,0 +1,16 @@
+.stories {
+    width: 20%;
+    background-color: #fff;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    overflow: hidden;
+}
+
+.stories a {
+    width: 100%;
+    display: block;
+    border-bottom: solid 1px lightgray;
+}

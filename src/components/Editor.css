@@ -1,0 +1,25 @@
+.editor {
+    width: 75%;
+    background-color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.editor button {
+    background-color: #0ff;
+    margin: 2px;
+  }
+  .title {
+    width: 90%;
+}
+
+.description {
+    width: 90%;
+    height: 300px;
+  }
+
+input[type="text"] {
+    width: 50%;
+}
