@@ -14,9 +14,7 @@ export default function Stories({stories, selectStory}) {
         <a key={story.title} onClick={() => selectStory(story)}>
             {story.title}
         </a>
-      ))}
-
-      
+      ))}      
     </div> 
   );
 }
